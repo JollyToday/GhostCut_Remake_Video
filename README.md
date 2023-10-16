@@ -1,5 +1,7 @@
 # 视频去重的定义、识别方法和操作建议
 
+## [English Version](https://github.com/JollyToday/GhostCut_Recreate_Video/blob/main/README_en.md "GhostCut re-create videos info") --- [中文介绍](https://github.com/JollyToday/GhostCut_Recreate_Video/blob/main/README.md "鬼手剪辑视频去重中文介绍")
+
 ## 视频去重的背景和意义
 
 对于抖音、快手、TikTok、YouTube shorts等算法推荐的平台来说，高创新度的素材具有极高的价值，能够显著的提高用户在平台的活跃，而创作者也会从平台给予的流量获得激励，进一步提高创作者的创作激情。而视频混剪、视频二创和视频去重生产可以降低视频制作门槛，使更多的用户参与到视频创作和分享中来。平台可以吸引更多的用户加入，扩大用户群体和市场份额，增加平台的活跃度和影响力，进而带来更多的商业价值和合作机会。
