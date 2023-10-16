@@ -1,5 +1,7 @@
 # Definition, recognition method and operation suggestion of video re-creation 
 
+## [English Version](https://github.com/JollyToday/GhostCut_Recreate_Video/blob/main/README_en.md "GhostCut re-create videos info") --- [中文介绍](https://github.com/JollyToday/GhostCut_Recreate_Video/blob/main/README.md "鬼手剪辑视频去重中文介绍")
+
 ## Background and significance of re-create videos
 
 For platforms recommended by algorithms such as Douyin, Kuaishou, TikTok, and YouTube Shorts, highly innovative materials have extremely high value, which can significantly increase user activity on the platform. Creators will also receive incentives from the traffic provided by the platform, further enhancing their creative passion. Video mixing, re-creation, and deduplicate production can lower the threshold for video making, enabling more customer engagement in video creation and sharing. The platform can attract more users to join, expand the client base and market share, increase the active level and influence of the platform, and bring more commercial value and cooperation opportunities.
