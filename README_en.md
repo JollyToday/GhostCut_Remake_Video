@@ -1,12 +1,12 @@
-# Definition, recognition method and operation suggestion of video re-creation 
+# Definition, recognition method and operation suggestion of video remaker 
 
-## [English Version](https://github.com/JollyToday/GhostCut_Recreate_Video/blob/main/README_en.md "GhostCut re-create videos info") --- [中文介绍](https://github.com/JollyToday/GhostCut_Recreate_Video/blob/main/README.md "鬼手剪辑视频去重中文介绍")
+## [English Version](https://github.com/JollyToday/GhostCut_remake_Video/blob/main/README_en.md "GhostCut re-create videos info") --- [中文介绍](https://github.com/JollyToday/GhostCut_remake_Video/blob/main/README.md "鬼手剪辑视频去重中文介绍")
 
 ## Background and significance of re-create videos
 
-For platforms recommended by algorithms such as Douyin, Kuaishou, TikTok, and YouTube Shorts, highly innovative materials have extremely high value, which can significantly increase user activity on the platform. Creators will also receive incentives from the traffic provided by the platform, further enhancing their creative passion. Video mixing, re-creation, and deduplicate production can lower the threshold for video making, enabling more customer engagement in video creation and sharing. The platform can attract more users to join, expand the client base and market share, increase the active level and influence of the platform, and bring more commercial value and cooperation opportunities.
+For platforms recommended by algorithms such as Douyin, Kuaishou, TikTok, and YouTube Shorts, highly innovative materials have extremely high value, which can significantly increase user activity on the platform. Creators will also receive incentives from the traffic provided by the platform, further enhancing their creative passion. Video mixing, remaker, and deduplicate production can lower the threshold for video making, enabling more customer engagement in video creation and sharing. The platform can attract more users to join, expand the client base and market share, increase the active level and influence of the platform, and bring more commercial value and cooperation opportunities.
 
-However, mass production such as video remixing, video re-creation, and homogeneous videos will also bring a large amount of low-quality and repetitive materials to the platform, destroy User Experience, and reduce the passion of excellent creators. Therefore, how to identify excellent re-creation needs to be balanced and carefully identified from the perspective of the platform. Based on the disclosed creator content plans and video deduplicate processing schemes of ByteDance, Kuaishou, and YouTube, this project summarizes the identification methods and operation suggestions for high-quality videos and re-creation deduplicate videos.
+However, mass production such as video remixing, video remaker, and homogeneous videos will also bring a large amount of low-quality and repetitive materials to the platform, destroy User Experience, and reduce the passion of excellent creators. Therefore, how to identify excellent remaker needs to be balanced and carefully identified from the perspective of the platform. Based on the disclosed creator content plans and video deduplicate processing schemes of ByteDance, Kuaishou, and YouTube, this project summarizes the identification methods and operation suggestions for high-quality videos and remaker deduplicate videos.
 
 ## Identification and judgment criteria for first-release video materials and homogeneous videos
 
@@ -41,23 +41,23 @@ Tips : material storyboard picture similarity ≤ 10%, the first release class; 
 ![image](https://github.com/JollyToday/GhostCut_Remake_Video/assets/128401459/754567ca-867b-46b6-8a10-d3be26623776)
 
 
-The official and system allow for the exploration of material minor modifications within a reasonable range, which is mainly determined by the supply of system, algorithm, and market content. Therefore, in a single period of time, it is not necessary to have a certain amount of high-quality materials, nor does it mean that low-quality materials cannot explode. Even slightly modified materials may receive good traffic, because the evaluation and recommendation status of the algorithm at each time point is unstable, and short-term positive and negative feedback is a case. Therefore, the re-creation video materials processed by video deduplicate should avoid entering the low-quality | duplicate material judgment area and strive to enter.
+The official and system allow for the exploration of material minor modifications within a reasonable range, which is mainly determined by the supply of system, algorithm, and market content. Therefore, in a single period of time, it is not necessary to have a certain amount of high-quality materials, nor does it mean that low-quality materials cannot explode. Even slightly modified materials may receive good traffic, because the evaluation and recommendation status of the algorithm at each time point is unstable, and short-term positive and negative feedback is a case. Therefore, the remaker video materials processed by video deduplicate should avoid entering the low-quality | duplicate material judgment area and strive to enter.
 
 ## What is video re-create and why do we need to do it?
 
-The existence of video deduplicate has its practical significance. Video re-creation can reduce the threshold of video making and enable more customers to engage in video creation and sharing. In recent years, with the increasing importance of videoization and algorithms, the life cycle of short videos has further shortened, which puts forward higher requirements for the production speed and quality of short videos. On the one hand, video editing is limited by the insufficient number of video materials, and on the other hand, the system requires continuous production of innovative videos, which is difficult for most small and micro creators. In product sales and food exploration areas, the shooting and editing capabilities of merchants themselves are limited, and the quantity of SKU products is limited. Therefore, video re-creating and mixed editing are a low-cost and efficient production method.
+The existence of video deduplicate has its practical significance. Video remaker can reduce the threshold of video making and enable more customers to engage in video creation and sharing. In recent years, with the increasing importance of videoization and algorithms, the life cycle of short videos has further shortened, which puts forward higher requirements for the production speed and quality of short videos. On the one hand, video editing is limited by the insufficient number of video materials, and on the other hand, the system requires continuous production of innovative videos, which is difficult for most small and micro creators. In product sales and food exploration areas, the shooting and editing capabilities of merchants themselves are limited, and the quantity of SKU products is limited. Therefore, video re-creating and mixed editing are a low-cost and efficient production method.
 
 The official platform and algorithm system allow material micro-modification exploration within a reasonable range, but "homogeneous material" belongs to materials with high similarity, such as **only replacing background music, only replacing 3 seconds front of the video, or only adjusting material tone, light and shade , etc. It is not enough**; in addition, each editing software and video downloaded by each video platform will be embedded in fingerprint information by the video platform to prohibit the transfer of other people's materials to infringe.
 
 When we need to copy and edit other people's materials, or when we don't have enough materials on hand, we need to re-edit these materials. Therefore, we need to use the logic of deduplicate.
 
-Video re-creation is a kind of video material editing operation that achieves a certain degree of innovation through micro-modification. By adjusting the video storyboard, sound, sound effects, music, picture, subtitles, expression structure, etc., the processed video is non-homogeneous with the original video, avoiding the judgment logic of "homogeneous material". Similar definitions and operations include video mixing, video re-creation/secondary modification, video rewriting, video deduplication, etc., most of which have similar logic.
+Video remaker is a kind of video material editing operation that achieves a certain degree of innovation through micro-modification. By adjusting the video storyboard, sound, sound effects, music, picture, subtitles, expression structure, etc., the processed video is non-homogeneous with the original video, avoiding the judgment logic of "homogeneous material". Similar definitions and operations include video mixing, video remaker/secondary modification, video rewriting, video deduplication, etc., most of which have similar logic.
 
 ## Judgment criteria and cases for repetitive and homogeneous materials
 
 The following are the standards and cases of duplicate and low-quality materials organized according to official materials such as ByteDance, Douyin, TikTok, etc., which are not worth using a single deduplicate method:
 
-| Adjust direction | Neutron direction | Re-creation detection rules |
+| Adjust direction | Neutron direction | remaker detection rules |
 | --- | --- | --- |
 | Timing sequence | Adjust duration | Only a small amount of clips are edited from the same material, reducing the duration. |
 |  |  | Only add a small amount of clips for the same material, such as posting a few seconds ago or a few seconds later, to increase the duration. |
@@ -86,9 +86,9 @@ To solve this problem, we need to create more innovative video materials. Editin
 
 Due to factors such as energy, manpower, cost, and time, the official has recommended some methods that can improve the originality of videos and achieve the effect of deduplicate. Let's follow the official to see how to achieve advanced deduplicate.
 
-## Video re-creation under official guidance
+## Video remaker under official guidance
 
-The official and system allow for exploration of material minor changes within a reasonable range, but "homogeneous material" belongs to materials with extremely high similarity, such as only replacing background music, only replacing 3 seconds ago, or only adjusting material tone, brightness , etc. It is not enough; in order to avoid extremely high similarity, the official has the following suggestions (incomplete version) for re-creation editing, including
+The official and system allow for exploration of material minor changes within a reasonable range, but "homogeneous material" belongs to materials with extremely high similarity, such as only replacing background music, only replacing 3 seconds ago, or only adjusting material tone, brightness , etc. It is not enough; in order to avoid extremely high similarity, the official has the following suggestions (incomplete version) for remaker editing, including
 1. The content remains unchanged, but the form of expression changes
 2. Typesetting & animation do addition and subtraction
   1. Add design-oriented parts to make new materials independent in design perception
@@ -101,7 +101,7 @@ Let's understand the above suggestions
 3. Need new dubbing
 Therefore, comprehensive "surgery" must be carried out on the picture, sound, music, rhythm, shots, etc. of the video in order to truly achieve the perfect effect of "video plastic surgery".
 
-## Comprehensive video re-creation through video rewriting to achieve efficient deduplicate.
+## Comprehensive video remaker through video rewriting to achieve efficient deduplicate.
 GhostCut innovatively uses AI to rewrite videos, which can regenerate images, subtitles, dubbing, layout, stickers, etc. in one go to improve the deduplicate ratio. GhostCut can complete the following operations at one time
 
 
@@ -120,28 +120,27 @@ After the above video rewriting, each video has undergone significant innovative
 
 If all of the above operations can be completed at once, do you want to give it a try? The video after the above rewriting can get better traffic support from the platform.
 
-## Through advanced re-creation of GhostCut, complete video rewriting of audio, video, and subtitles at once
+## Through advanced remaker of GhostCut, complete video rewriting of audio, video, and subtitles at once
 
-The GhostCut developed by JollyToday Technology has been using AI to provide video editing services for the majority of users. Today, it has been a super big update on the video deduplicate function（Video Re-Creation）!
+The GhostCut developed by JollyToday Technology has been using AI to provide video editing services for the majority of users. Today, it has been a super big update on the video deduplicate function（Video remaker）!
 ![image](https://github.com/JollyToday/GhostCut_Remake_Video/assets/128401459/fc3fc123-d9b1-449b-b0d4-95f4fc112fba)
 
 
+The advanced remaker function added by GhostCut can not only automatically rewrite video content, but also add sound and subtitles to your video, making your content look brand new! This is a boon for creators of oral endorsement content.
 
-The advanced re-creation function added by GhostCut can not only automatically rewrite video content, but also add sound and subtitles to your video, making your content look brand new! This is a boon for creators of oral endorsement content.
-
-## Advanced Re-creation Operation of GhostCut
+## Advanced remaker Operation of GhostCut
 
 GhostCut innovatively regenerates images, sounds, subtitles, layout, stickers, and storyboards with AI . The AI-rewritten copy makes the content of each product different. The change of AI dubbing makes each video regain its sound machine. GhostCut has Chinese and English versions, and also supports WeChat Mini Program and computer version. The specific operation process on the mobile phone is as follows:
-Open the GhostCut Mini Program, click Advanced re-creation/oral endorsement re-creation, enter the operation page, as follows, a total of three steps
+Open the GhostCut Mini Program, click Advanced remaker/oral endorsement remaker, enter the operation page, as follows, a total of three steps
 1. Upload a video
 2. Choose the line processing method and deduplicate method
 3. Submit waiting results
 ![image](https://github.com/JollyToday/GhostCut_Remake_Video/assets/128401459/added423-d4ab-408a-b13c-4873229c5f93)
 
 
-## GhostCut Advanced re-creation Technology
+## GhostCut Advanced remaker Technology
 
-The advanced re-creation core of GhostCut is video rewriting, which means first extracting the content of your original video, and then using a method similar to deduplicating a paper to change the wording of the original video while maintaining the same meaning in different words. Then, the rewritten content is dubbed and subtitled. The specific operation is as follows:
+The advanced remaker core of GhostCut is video rewriting, which means first extracting the content of your original video, and then using a method similar to deduplicating a paper to change the wording of the original video while maintaining the same meaning in different words. Then, the rewritten content is dubbed and subtitled. The specific operation is as follows:
 
 1. Extract video copy
 2. Rewrite video copy
@@ -156,9 +155,9 @@ The advanced re-creation core of GhostCut is video rewriting, which means first 
     
 AI rewritten copy makes the content of each product different. The change of AI dubbing makes each video regain its beautiful sound .
 
-## GhostCut video Re-creation advantages?
+## GhostCut video remaker advantages?
 
-GhostCut offers an intelligent video re-creation product. It uses AI technology and video processing technology to process the MD5 , fingerprint information, visual information, audio information, subtitle information, etc. of the video, helping everyone to better and faster re-creation of the video. Compared with using CapCut or PR template deduplicate editing, its characteristics are: fully automatic, multi-mode, supporting the combination of subtitles and voice, which belongs to more advanced secondary creation.
+GhostCut offers an intelligent video remaker product. It uses AI technology and video processing technology to process the MD5 , fingerprint information, visual information, audio information, subtitle information, etc. of the video, helping everyone to better and faster remaker of the video. Compared with using CapCut or PR template deduplicate editing, its characteristics are: fully automatic, multi-mode, supporting the combination of subtitles and voice, which belongs to more advanced secondary creation.
 This feature of GhostCut has the following advantages:
 
 #### 1. Automated processing
@@ -201,7 +200,7 @@ Through the table below, you can find out what metrics have changed in the video
 
 In the base MD5 and video fingerprint information, the GhostCut is fully automatic to make changes.
 
-| Type | Directly use watermark-free software | Download directly from social media (with platform watermark). | GhostCut Re-creation | Note |
+| Type | Directly use watermark-free software | Download directly from social media (with platform watermark). | GhostCut remaker | Note |
 | --- | --- | --- | --- | --- |
 | File size | 720 | 720 | 720 | Support 1080p |
 | Document duration | 9 s 567 ms | 12 s 567 ms | 8 s 745 ms | Duration changes randomly |
@@ -211,7 +210,7 @@ In the base MD5 and video fingerprint information, the GhostCut is fully automat
 
 
 ### Tips: What factors are related to the quality of deduplicate and the approval of dou + and vermicelli?
-The quality of deduplicate is generally related to the level of the account, the popularity of the material, and the time of re-creation
+The quality of deduplicate is generally related to the level of the account, the popularity of the material, and the time of remaker
 - The level of the published account itself needs to be of high quality. The newer the account and the account that has been risk controlled by the platform, the higher the requirement for deduplicate degree.
 - The more popular the material, if it comes from popular or celebrity materials, the higher the requirement for deduplicating the material.
 - The closer the time, such as the hottest material of the day, the higher the requirement for deduplicate.
