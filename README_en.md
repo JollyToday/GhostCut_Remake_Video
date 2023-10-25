@@ -204,9 +204,9 @@ In the base MD5 and video fingerprint information, the GhostCut is fully automat
 | --- | --- | --- | --- | --- |
 | File size | 720 | 720 | 720 | Support 1080p |
 | Document duration | 9 s 567 ms | 12 s 567 ms | 8 s 745 ms | Duration changes randomly |
-| Description information |  |  | kGKBf4vhCEe5J95owhfZ1y8cOAUrtJoLIDeGroNW7igVKRMbRdxd/vDVtJfUMQlz | Randomly add |
+| Description information |  |  | kGKBf4vbRdxd/fUMQlz | Randomly add |
 | Copyright information |  |  |  |  |
-| Digital signature | AZ6e6gmu4XqJutoDL8i5aiDHRSid | AaGf7KMzw1W5Xt1wDAyXVlW2x3ix | ARpWxirh3AnpeNYJ6Y+E7c97l02g | Random change |
+| Digital signature | AZ6e6gmu4XaiDHRSid | AaGf7KMzw1lW2x3ix | ARpWxirh3Ac97l02g | Random change |
 
 
 ### Tips: What factors are related to the quality of deduplicate and the approval of dou + and vermicelli?
