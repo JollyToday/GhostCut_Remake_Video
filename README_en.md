@@ -123,7 +123,6 @@ If all of the above operations can be completed at once, do you want to give it 
 ## Through advanced remaker of GhostCut, complete video rewriting of audio, video, and subtitles at once
 
 The GhostCut developed by JollyToday Technology has been using AI to provide video editing services for the majority of users. Today, it has been a super big update on the video deduplicate function（Video remaker）!
-![image](https://github.com/JollyToday/GhostCut_Remake_Video/assets/128401459/fc3fc123-d9b1-449b-b0d4-95f4fc112fba)
 
 
 The advanced remaker function added by GhostCut can not only automatically rewrite video content, but also add sound and subtitles to your video, making your content look brand new! This is a boon for creators of oral endorsement content.
@@ -135,7 +134,6 @@ Open the GhostCut Mini Program, click Advanced remaker/oral endorsement remaker,
 1. Upload a video
 2. Choose the line processing method and deduplicate method
 3. Submit waiting results
-![image](https://github.com/JollyToday/GhostCut_Remake_Video/assets/128401459/added423-d4ab-408a-b13c-4873229c5f93)
 
 
 ## GhostCut Advanced remaker Technology
@@ -145,7 +143,7 @@ The advanced remaker core of GhostCut is video rewriting, which means first extr
 1. Extract video copy
 2. Rewrite video copy
 3. Erase original video subtitles
-4. Intelligent deduplicate operation of video: change md5 , crop, acceleration and deceleration, picture-in-picture, frame capture, random mirroring, random transition, dynamic scaling and so on
+4. Intelligent re-edit operation of video
 5. Add subtitles to new videos
 6. Dubbing according to the subtitles of the new video
 7. Calculate the position of new dubbing, subtitles, and images based on the alignment position of the original video subtitles, voice, and image for audio-visual alignment
